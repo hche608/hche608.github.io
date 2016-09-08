@@ -3,19 +3,19 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
+* Email: [hche608@aucklanduni.ac.nz](mailto:hche608@aucklanduni.ac.nz)
 
-* Phone: [+91-123123](tel:+91-123123)
+* Phone: [+64-123123](tel:+64-123123)
 
 ---
 
 ## Mailing Address
 
-> 221B, Baker Street
+> University of Auckland
 >
-> London
+> Auckland
 >
-> United Kingdom
+> New Zealand
 
 ---
 
