@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="sherlock.jpg">
+<img class="profile-picture" src="me.jpg">
 
 Hi! I am a last year student of BSc Computer Science at University of Auckland, New Zealand.
 
