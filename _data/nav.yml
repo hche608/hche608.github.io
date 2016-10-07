@@ -1,11 +1,11 @@
+- name: "About"
+  link: "/"
+  
 - name: "Contact"
   link: "contact"
 
 - name: "Resume"
   link: "resume.pdf"
-
-- name: "About"
-  link: "/"
 
 - name: "Project"
   link: "project"
