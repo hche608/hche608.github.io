@@ -4,23 +4,18 @@ layout: default
 
 ## Projects
 
-This is my GitHub [link](https://github.com/hche608). Something *italics* and something **bold**.
-
-Here is a table
-
-Year | Title | link
------|-------|--------
-2016 | Scores 4 Schools  | [https://www.scores4schools.com](https://www.scores4schools.com)
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
-
-Here is a horizontal rule
+>This is *my* **[GitHub](https://github.com/hche608)**.
 
 ---
 
-Here is a blockquote
+Year | Title | link
+-----|-------|--------
+2016 | Scores 4 Schools  | [www.scores4schools.com](https://www.scores4schools.com)
+2015 | Back to UoA | 
+2014 | CSE-2102-Puzzle-Game at UCONN | [CSE-2102-Puzzle-Game](https://github.com/hche608/CSE-2102-Puzzle-Game)
+2013 | Started at the University of Auckland | 
 
-> To a great mind, nothing is little
+---
 
 ## References
 
