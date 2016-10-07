@@ -5,7 +5,7 @@ is_contact: true
 
 * Email: [hche608@aucklanduni.ac.nz](mailto:hche608@aucklanduni.ac.nz)
 
-* Phone: [+64-123123](tel:+64-123123)
+* Phone: [+64-123123](tel:+64-21-***-3***4)
 
 ---
 
@@ -21,6 +21,5 @@ is_contact: true
 
 ## Social
 
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
+1. [Facebook](https://www.facebook.com/Hao.Ch86)
+2. [Linkedin](https://www.linkedin.com/in/hche608)
