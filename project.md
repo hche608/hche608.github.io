@@ -6,8 +6,6 @@ layout: default
 
 >This is *my* **[GitHub *link*](https://github.com/hche608)**.
 
----
-
 Year | Title | link
 -----|-------|--------
 2016 | Scores 4 Schools  | [www.scores4schools.com](https://www.scores4schools.com)
