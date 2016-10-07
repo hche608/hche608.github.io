@@ -10,9 +10,12 @@ Hi! I am a last year student of BSc Computer Science at University of Auckland, 
 
 This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/hche608/hche608.github.io)
 
+---
+
 ## Education
 
 >**University of Auckland (UoA)**
+
 * Algorithms and Data Structures
 * Discrete Structures in Mathematics and Computer Science o Software Construction
 * Intro to Software Engineering
@@ -26,10 +29,14 @@ This is a jekyll based resume template. You can find the full source code on [Gi
 * Computer Graphics and Image Processing
 
 **Summer Research Scholarships @ UoA**
+
 * Data analyze
 
 >**University of Connecticut (UCONN)**
+
 * Exchange student for one semester
+
+---
 
 ## Projects
 
