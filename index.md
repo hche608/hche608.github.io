@@ -58,4 +58,4 @@ Year | Title | link
 ## References
 
 * Dr Aniket Mahanti: Lecturer, Department of Computer Science, University of Auckland
-* Matthew Lloyd: Fundor, Scores4School
+* Matthew Lloyd: Founder, Scores4School
