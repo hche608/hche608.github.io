@@ -40,6 +40,13 @@ Looking for an opportunity in the field of information technology as computer pr
 
 ---
 
+## Awards
+* Computer Science Research Summer Scholarship
+* The 360 Auckland Abroad Exchange Travel Awards
+* The 360 Auckland Abroad Exchange Universitas 21 Award
+
+---
+
 ## Projects
 
 >This is *my* **[GitHub *link*](https://github.com/hche608)**.
