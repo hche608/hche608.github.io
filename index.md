@@ -61,6 +61,8 @@ Year | Title | link
 2014 | Computer Architecture-MIPS @ UCONN | [CSE-2304-MIPS](https://github.com/hche608/CSE-2304)
 2013 | Principles of Programming | [Simple Java Program](https://github.com/hche608/CS-101)
 
+
+[More projects](project)
 ---
 
 ## References
