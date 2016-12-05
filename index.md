@@ -6,9 +6,9 @@ layout: default
 
 <img class="profile-picture" src="me.webp">
 
-Hi! I am a last year student of BSc Computer Science at University of Auckland, New Zealand.
+Hi! I am a Bachelor of Computer Science graduate from the University of Auckland, New Zealand.
 
-A highly accomplished, skilled and knowledgeable computer science student with extensive knowledge of programming and computer applications. 
+A highly accomplished, skilled and knowledgeable computer science student with extensive knowledge of programming and computer applications.
 Looking for an opportunity in the field of information technology as computer programmer in a renowned organization.
 
 ---
@@ -63,6 +63,7 @@ Year | Title | link
 
 
 [More projects](project)
+
 ---
 
 ## References
