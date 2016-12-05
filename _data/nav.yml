@@ -5,7 +5,7 @@
   link: "contact"
 
 - name: "Resume"
-  link: "resume.pdf"
+  link: "resources/resume.pdf"
 
 - name: "Project"
   link: "project"
