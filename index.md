@@ -69,5 +69,6 @@ Year | Title | link
 
 ## References
 
-* Dr Aniket Mahanti: Lecturer, Department of Computer Science, University of Auckland
-* Matthew Lloyd: Founder, Scores4School
+* Kavinesh Reddy: Web & Digital Principal at [Vector Ltd](https://www.vector.co.nz/)
+* Dr Aniket Mahanti: Lecturer, Department of Computer Science, [University of Auckland](https://www.auckland.ac.nz/en.html)
+* Matthew Lloyd: Founder, [Scores4School](https://www.scores4schools.com)
