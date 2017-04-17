@@ -53,8 +53,7 @@ Looking for an opportunity in the field of information technology as computer pr
 
 Year | Title | link
 -----|-------|--------
-2017 | EV CHARGING APP  | [iOS](https://itunes.apple.com/us/app/vector-ev-charging/id1165218465?mt=8&uo=4)
-[Android](https://play.google.com/store/apps/details?id=com.vector.evcharge&hl=en)
+2017 | EV CHARGING APP  | [iOS](https://itunes.apple.com/us/app/vector-ev-charging/id1165218465?mt=8&uo=4)  [Android](https://play.google.com/store/apps/details?id=com.vector.evcharge&hl=en)
 2016 | Scores 4 Schools  | [www.scores4schools.com](https://www.scores4schools.com)
 2015 | Distributed Objects, Services and Programming | [Blogger](https://github.com/hche608/CS-335-A2)
 2015 | Computational Science | [Model of DNA Sequences](https://github.com/hche608/CS-369)
