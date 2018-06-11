@@ -1,0 +1,11 @@
+title: Developer
+url: "https://www.i2omega.com"
+baseurl: "/"
+
+markdown: kramdown
+
+tracking_id: UA-66492280-1
+
+sass:
+    style: compressed
+    sass_dir: _sass
