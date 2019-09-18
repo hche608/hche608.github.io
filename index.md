@@ -6,10 +6,24 @@ layout: default
 
 <img class="profile-picture" src="me.webp">
 
-Hi! I am a Bachelor of Computer Science graduate from the University of Auckland, New Zealand.
+Motivated and skilled Java Developer with 2+ years of experience AWS cloud environment and 3+ years of experience focusing on High-Performance, High-availability, and high-throughput systems. Strong problem-solving skills and in need of a challenge. 
 
-A highly accomplished, skilled and knowledgeable computer science student with extensive knowledge of programming and computer applications.
 Looking for an opportunity in the field of information technology as computer programmer in a renowned organization.
+
+---
+
+## Work Experience
+
+* Software Developer @ [Vector]("https://www.vector.co.nz") from 2016 to Present
+
+---
+
+## Certifications
+
+* AWS Certified Solutions Architect - Associate, Credential ID: [ZNYESD31C144Q656]("https://www.certmetrics.com/amazon/public/badge.aspx?i=1&t=c&d=2018-08-31&ci=AWS00468035")
+* Microsoft Certified Professional [(MCP)](resources/MCPDigitalCert/Cert002.pdf)
+* Microsoft Certified Systems Engineer: Windows 2000 Server [(MCSE)](resources/MCPDigitalCert/Cert001.pdf)
+* Microsoft Certified Database Administrator [(MCDBA)](resources/MCPDigitalCert/Cert003.pdf)
 
 ---
 
@@ -53,9 +67,13 @@ Looking for an opportunity in the field of information technology as computer pr
 
 Year | Title | link
 -----|-------|--------
+2019 | Reference Architecture Template
+2019 | Epic Free Game Bot | [Open Source Project]("https://github.com/hche608/epic-free-games-bot")
+2018 | Outage Web App | [Link]("https://help.vector.co.nz")
+2018 | AWS Lambda | [Faas]("https://github.com/hche608/hax3-py-aws-lambda")
 2017 | EV CHARGING APP  | [iOS](https://itunes.apple.com/us/app/vector-ev-charging/id1165218465?mt=8&uo=4)  [Android](https://play.google.com/store/apps/details?id=com.vector.evcharge&hl=en)
-2016 | Scores 4 Schools  | [www.scores4schools.com](https://www.scores4schools.com)
-2015 | Distributed Objects, Services and Programming | [Blogger](https://github.com/hche608/CS-335-A2)
+2016 | Scores 4 Schools  | [scores4schools.herokuapp.com](https://scores4schools.herokuapp.com)
+2015 | Distributed Objects, Services and Programming | [Source code](https://github.com/hche608/CS-335-A2)
 2015 | Computational Science | [Model of DNA Sequences](https://github.com/hche608/CS-369)
 2015 | Summer Research Scholarships @ UoA | [Data analyze](#), Supervisor Dr Aniket Mahanti
 2014 | Introduction to Software Engineering-Puzzle-Game @ UCONN | [CSE-2102-Puzzle-Game](https://github.com/hche608/CSE-2102-Puzzle-Game)
@@ -67,8 +85,3 @@ Year | Title | link
 
 ---
 
-## References
-
-* Kavinesh Reddy: Web & Digital Principal at [Vector Ltd](https://www.vector.co.nz/)
-* Dr Aniket Mahanti: Lecturer, Department of Computer Science, [University of Auckland](https://www.auckland.ac.nz/en.html)
-* Matthew Lloyd: Founder, [Scores4School](https://www.scores4schools.com)
