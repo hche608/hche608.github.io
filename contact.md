@@ -11,8 +11,6 @@ is_contact: true
 
 ## Mailing Address
 
-> University of Auckland
->
 > Auckland
 >
 > New Zealand
