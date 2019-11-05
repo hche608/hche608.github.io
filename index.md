@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="me.webp">
 
-Motivated and skilled DevOps with 2+ years of experience AWS cloud environment and 3+ years of experience focusing on High-Performance, High-availability, and high-throughput systems. Strong problem-solving skills and in need of a challenge. 
+Motivated and skilled DevOps with 3+ years of experience AWS cloud environment and 3+ years of experience focusing on High-Performance, High-availability, and high-throughput systems. Strong problem-solving skills and in need of a challenge. 
 
 Looking for an opportunity and challenge as DevOps.
 
